@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width:740px) {
+    body{
+        background-image: url("../../assets/img/mobile_screen.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+    }
+}
+@media (min-width:741px) {
+    body{
+        background-image: url("../../assets/img/Desktop_screen.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}
+marquee{
+    z-index: 1;
+    color: aliceblue;
+}
