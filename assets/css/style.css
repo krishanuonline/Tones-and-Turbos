@@ -9,6 +9,7 @@
         background-image: url("../../assets/img/mobile_screen.jpg");
         background-size: cover;
         background-repeat: no-repeat;
+        height: 100%;
         
     }
 }
@@ -17,6 +18,7 @@
         background-image: url("../../assets/img/Desktop_screen.jpg");
         background-size: cover;
         background-repeat: no-repeat;
+        height: 100%;
     }
 }
 marquee{
